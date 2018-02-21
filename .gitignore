@@ -1,5 +1,2 @@
-Makefile
-chess.o
-Ignorfiles.gitignore
-
-
+*.txt
+chess
